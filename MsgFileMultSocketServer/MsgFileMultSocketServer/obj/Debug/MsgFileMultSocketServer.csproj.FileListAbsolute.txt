@@ -1,0 +1,7 @@
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\bin\Debug\MsgFileMultSocketServer.exe.config
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\bin\Debug\MsgFileMultSocketServer.exe
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\bin\Debug\MsgFileMultSocketServer.pdb
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\obj\Debug\MsgFileMultSocketServer.csprojAssemblyReference.cache
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\obj\Debug\MsgFileMultSocketServer.csproj.CoreCompileInputs.cache
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\obj\Debug\MsgFileMultSocketServer.exe
+E:\vs_workspace\MsgFileMultSocketServer\MsgFileMultSocketServer\obj\Debug\MsgFileMultSocketServer.pdb
